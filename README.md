@@ -113,14 +113,4 @@ git remote add origin YOUR_GITHUB_REPO_LINK
 git push -u origin main
 ```
 
-## Demo Video
-
-For assignment submission, record a 2-3 minute video showing:
-
-1. Project running in browser
-2. Adding a player
-3. Creating a tournament
-4. Adding players to tournament
-5. Generating random matches
-6. Showing final ranking
 
