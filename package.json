@@ -9,12 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@sveltejs/adapter-node": "latest",
     "@sveltejs/kit": "latest",
     "dotenv": "latest",
     "pg": "latest",
     "svelte": "latest",
     "vite": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "^7.0.1"
+  }
 }
